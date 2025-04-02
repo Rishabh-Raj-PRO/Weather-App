@@ -1,0 +1,24 @@
+@charset "UTF-8";
+body{
+	background-image:linear-gradient(to right, #e6ee9c, #9e9d24);
+	display:flex;
+	flex-direction:column;
+	align-items:center;
+	text-align:center;	
+	color:rgb(117, 11, 21);
+}
+h1,h2,h3,p{
+	margin:5px;
+}
+img{
+	height:20%;
+	width:20%;
+}
+form{
+	margin-top:20px;
+}
+label{
+	font-size: 1.5em; 
+	font-weight: bold;
+	 margin-right: 10px;
+}
