@@ -1,6 +1,8 @@
 📌 Weather App 🌦
 A simple weather application that fetches weather data based on user input and displays the weather conditions with dynamic icons.
 
+You can access the code by changing the brach from main to my-new-branch.
+
 
 🛠 Features
 ✅ Search weather by city name
